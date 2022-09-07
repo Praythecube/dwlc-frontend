@@ -1,0 +1,275 @@
+{
+    "info": {
+        "structure": {
+            "name": "Track title of the most prominent or relevant appearance, or, if none are applicable, a title I came up with",
+            "appearances": "Notable appearances or instances of the leitmotif",
+            "ideas": "Ideas or characters this motif links to",
+            "notes": "Anything I've noticed or find interesting about the motif or track"
+        }
+    },
+    "data": [
+        {
+            "name": "I Am The Doctor",
+            "represents": "The Eleventh Doctor",
+            "ideas": [
+                "doctor",
+                "11",
+                "action"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/i83lYAVP7Qo",
+                    "name": "I Am The Doctor",
+                    "appears": "S05E01",
+                    "main": true
+                },
+                {
+                    "url": "https://youtu.be/qfsy3-1OCdA",
+                    "name": "I Am The Doctor In Utah",
+                    "appears": "S06E01"
+                },
+                {
+                    "url": "https://youtu.be/VCHfVZIAZ6s",
+                    "name": "The Majestic Tale (Of A Madman In A Box)",
+                    "appears": "S06E02"
+                },
+                {
+                    "url": "https://youtu.be/StOoDtw4ac8",
+                    "name": "Words Win Wars",
+                    "appears": "S05E12",
+                    "notes": "A slower, triumphant, majestic rendition of the theme, used at the climax of 'The Pandorica Opens'"
+                }
+            ]
+        },
+        {
+            "name": "Together or Not at All",
+            "represents": "Amy and Rory",
+            "ideas": [
+                "amy",
+                "rory"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/iwOgT93w2k4",
+                    "name": "Together or Not at All (The Song of Amy and Rory)",
+                    "appears": "S07E05",
+                    "main": true
+                },
+                {
+                    "url": "https://youtu.be/HUcVC5DLMYk",
+                    "name": "Amy and Rory",
+                    "appears": "S05E12",
+                    "notes": "First appearance of this motif"
+                },
+                {
+                    "url": "https://youtu.be/ewhlI7trDlc",
+                    "name": "Amy and Rory Together",
+                    "appears": "S07E01",
+                    "notes": "Incorporates 'Little Amy'"
+                }
+            ]
+        },
+        {
+            "name": "Amelia's Theme",
+            "represents": "Young Amy Pond",
+            "ideas": [
+                "amy"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/z0CrfNP8B9Y",
+                    "name": "Little Amy",
+                    "appears": "S05E01"
+                },
+                {
+                    "url": "https://youtu.be/GfkcrXBfJn4",
+                    "name": "Little Amy: The Apple",
+                    "appears": "S05E01",
+                    "main": true
+                }
+            ]
+        },
+        {
+            "name": "The TARDIS",
+            "represents": "The TARDIS",
+            "ideas": [
+                "tardis"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/L1yMjk6WGPs",
+                    "name": "The Mad Man With A Box",
+                    "appears": "S05E01",
+                    "main": true,
+                    "notes": "Very similar vocals to Amy's Theme"
+                },
+                {
+                    "url": "https://youtu.be/XwmYekVzAdI",
+                    "name": "The Sad Man With A Box",
+                    "appears": "S05E12",
+                    "notes": "An instrumental variation on 'The Mad Man With A Box' - played in S05E13 'The Big Bang' as the Doctor sacrifices himself by piloting the Pandorica (a box) to save the universe, hence the title"
+                },
+                {
+                    "url": "https://youtu.be/ZJgd5rfPe-0",
+                    "name": "Amy In The TARDIS",
+                    "appears": "S05E01",
+                    "notes": "Slower, incorporates tardis incidental sfx"
+                },
+                {
+                    "url": "https://youtu.be/4trfnGupLuU",
+                    "name": "Always Safe Here",
+                    "appears": "S10E01",
+                    "notes": "From the unreleased series 10 soundtrack - used when Bill enters the TARDIS, mirroring the 'Amy In The TARDIS' scene, and including different tardis incidental sfx"
+                }
+            ]
+        },
+        {
+            "name": "Amy's Theme",
+            "represents": "Amy Pond",
+            "ideas": [
+                "amy"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/4qhbfDstZvM",
+                    "name": "Amy's Theme",
+                    "appears": "S05E02",
+                    "main": true,
+                    "notes": "According to Murray Gold, Amy's theme 'evolved' after she first travelled with the Doctor (from 'Little Amy')"
+                }
+            ]
+        },
+        {
+            "name": "The Dalek March",
+            "represents": "The Daleks",
+            "ideas": [
+                "daleks",
+                "military"
+            ],
+            "notes": "A new piece of dalek music written for the S04 finale, with little discernible similarity to 'The Daleks', a track used before and since",
+            "appearances": [
+                {
+                    "url": "https://youtu.be/ZeWQr3scW-s",
+                    "name": "The Dark and Endless Dalek Night",
+                    "appears": "S04E12",
+                    "main": true
+                },
+                {
+                    "url": "https://youtu.be/NdfUt2RZjZE?t=29",
+                    "name": "The Fall of Arcadia",
+                    "appears": "S07E14",
+                    "notes": "(at 0:29) Unreleased music from the 50th anniversary special (Day of the Doctor), including 'The Dark and Endless Dalek Night' from S04 as well as 'Words Win Wars' from S05"
+                }
+            ]
+        },
+        {
+            "name": "The Daleks",
+            "represents": "The Daleks",
+            "ideas": [
+                "daleks"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/poA5jINDLzQ",
+                    "name": "The Daleks",
+                    "main": true,
+                    "appears": "S01E12"
+                },
+                {
+                    "url": "https://youtu.be/13TlEvmC1Dk",
+                    "name": "Evolution of the Daleks",
+                    "appears": "S03E04",
+                    "notes": "A distant derivation of 'The Daleks', featuring the same vocals but slower, more like a march."
+                }
+            ]
+        },
+        {
+            "name": "All the Strange, Strange Creatures",
+            "represents": "The 10th Doctor",
+            "ideas": [
+                "doctor",
+                "10",
+                "action"
+            ],
+            "notes": "Represents the 10th Doctor and is used throughout action scenes from S03 to the end of Tennant's run - the 'I Am The Doctor' of 10",
+            "appearances": [
+                {
+                    "url": "https://youtu.be/FRGHL1w4p6U",
+                    "name": "All the Strange, Strange Creatures",
+                    "main": true,
+                    "notes": "Was used in the S03 promotional material"
+                },
+                {
+                    "url": "https://youtu.be/vfHynF5dNtE",
+                    "name": "Westminster Bridge",
+                    "appears": "S01E01",
+                    "notes": "This track includes the 1:1 opening of 'All the Strange, Strange Creatures' and shares similarities with the rest of the track while appearing two seasons and one doctor previously"
+                },
+                {
+                    "url": "https://youtu.be/_KeahTbP72w",
+                    "name": "The Futurekind",
+                    "appears": "S03E11",
+                    "notes": "Shares more similarities with 'Westminster Bridge' than the pure motif, but is no doubt a derivation"
+                }
+            ]
+        },
+        {
+            "name": "UNIT Theme",
+            "represents": "UNIT",
+            "ideas": [
+                "unit",
+                "military"
+            ],
+            "notes": "Incorporates hints of 'All the Strange, Strange Creatures' throughout",
+            "appearances": [
+                {
+                    "url": "https://youtu.be/IYEfxqj-zQ0",
+                    "name": "Unit",
+                    "appears": "S02E00",
+                    "main": true
+                },
+                {
+                    "url": "https://youtu.be/54hYSzU1fzY",
+                    "name": "UNIT Rocks",
+                    "appears": "S04E04"
+                }
+            ]
+        },
+        {
+            "name": "The Tenth Doctor's Theme",
+            "represents": "The (Tenth) Doctor",
+            "ideas": [
+                "doctor",
+                "10"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/x1oJt20VKrw",
+                    "name": "The Doctor's Theme",
+                    "appears": "S01E01",
+                    "main": true
+                },
+                {
+                    "url": "https://youtu.be/pkStjQC_APw",
+                    "name": "The Doctor's Theme Series 4",
+                    "appears": "S04E01",
+                    "notes": "A rework for series 4, after series 3 mostly replaced the theme with 'The Doctor Forever'"
+                }
+            ]
+        },
+        {
+            "name": "The Doctor Forever",
+            "represents": "The (Tenth) Doctor",
+            "ideas": [
+                "doctor",
+                "10"
+            ],
+            "appearances": [
+                {
+                    "url": "https://youtu.be/fDoWgzRrs_o",
+                    "name": "The Doctor Forever"
+                }
+            ]
+        }
+    ]
+}
